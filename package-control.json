@@ -1,9 +1,0 @@
-{
-    "name": "F8WordHighlight",
-    "description": "Highlight words when F8 is pressed, the same as Source Insight's F8 feature",
-    "author": "Yucheng Zou",
-    "homepage": "https://github.com/Yukino0319/F8WordHighlight",
-    "version": "1.0.0",
-    "platforms": ["windows"],
-    "sublime_text": ">=4200"
-  }
