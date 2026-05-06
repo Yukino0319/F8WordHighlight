@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["f8"],
+        "command": "f8_toggle_hover_word_highlight"
+    }
+]

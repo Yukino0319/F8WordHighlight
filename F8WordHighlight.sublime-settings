@@ -1,0 +1,11 @@
+{
+    "case_sensitive": false,
+    "whole_word_only": true,
+    "palette_scopes": [
+        "region.yellowish",
+        "region.greenish",
+        "region.bluish",
+        "region.orangish",
+        "region.purplish"
+    ]
+}
